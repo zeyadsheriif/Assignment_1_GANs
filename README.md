@@ -28,7 +28,7 @@ Key Features
 *   **Synthetic Sample Generation:** Hallucinates entirely novel medical scans by sampling from the VAE's learned standard normal prior $\\mathcal{N}(0, I)$.
     
 
-📂 Repository Structure
+ Repository Structure
 -----------------------
 
 Plaintext
